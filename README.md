@@ -1,6 +1,7 @@
 ## Tableau Trusted Ticket App for Google Authentication
 
 Steps to get up and running:
+
 1. Install node.js (https://nodejs.org/)
 2. Fork this repo
 3. Setup trusted authentication for Tableau Server: http://onlinehelp.tableau.com/current/server/en-us/trusted_auth_trustIP.htm
