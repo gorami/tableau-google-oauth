@@ -72,7 +72,7 @@ var getTrustedTicket = function(res) {
 					user: my_profile.name,
 					picture: my_profile.picture,
 					email: my_email,
-					tabServerUrl: "http://10.211.55.5:8000/trusted/" + body + "/views/Sales/2013SalesGrowth?:embed=yes" 
+					tabServerUrl: "http://10.211.55.5:8000/trusted/" + body + "/views" 
 	   			};
             	res.render('profile.jade', locals);
         	}
