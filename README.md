@@ -8,6 +8,6 @@ Steps to get up and running:
 4. Start Tableau Server
 5. Edit the "getTrustedTicket" method in app.js with URLs to your Tableau Server
 6. Enter "node app.js" from the root of your local copy of this repo
-7. Open a browser and go to http://<your laptop>:3000
+7. Open a browser and go to http://your IP:3000
 8. Click on the button to login with Google
  
